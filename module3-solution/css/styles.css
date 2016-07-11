@@ -1,0 +1,23 @@
+h1 {
+	background-color: #FFFFFF ;
+}
+
+#content{
+	background-color: #90EE90;
+	height: 1000px;
+}
+
+#menu-list{
+	text-align: center;
+	background-color: #42A5F5;
+	
+}
+
+#menu-list li a {
+	color: #FFFFFF;
+}
+
+#menu-list li a:hover{
+	background-color: #FFFFFF;
+	color: #000000;
+}
